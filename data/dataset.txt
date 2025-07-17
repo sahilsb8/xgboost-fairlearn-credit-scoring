@@ -1,0 +1,5 @@
+In this folder there are 4 files which are as follows:
+  1.  german.data --> This is the raw file of the Statlog dataset with symollic representation of data
+  2.  german.data-numeric --> This is a data file which has all the data in the numeric from but still unprocessed and raw
+  3.  main_file.csv --> This is the file which is an as is conversion of the german.data file to a csv file
+  4.  cleaned.csv --> This is the file with complete conversion and is processed and ready for machine learning tasks, to know the binary classifications for the classes check the readme
